@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Przemek-Szadkowski
 - 👀 I’m interested in photography, rock music, books, Javascript and web technologies, cycling, video games and tourism.
-- 🌱 I’m currently learning Node.js, Express and MongoDB.
+- 🌱 I’m currently learning and looking for my first job in IT.
 - 📫 How to reach me - by email: przemoszadkowski@o2.pl
 
 <!---
